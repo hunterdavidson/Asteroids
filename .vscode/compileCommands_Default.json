@@ -1,0 +1,26 @@
+[
+	{
+		"file": "C:\\Users\\Hunter\\OneDrive\\OneDrive\\Coding\\Unreal\\Asteroids\\Source\\Asteroids\\Asteroids.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Hunter\\OneDrive\\OneDrive\\Coding\\Unreal\\Asteroids\\.vscode\\compileCommands_Default\\Asteroids.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Hunter\\OneDrive\\OneDrive\\Coding\\Unreal\\Asteroids\\Source\\Asteroids\\Asteroids.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Hunter\\OneDrive\\OneDrive\\Coding\\Unreal\\Asteroids\\.vscode\\compileCommands_Default\\Asteroids.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Hunter\\OneDrive\\OneDrive\\Coding\\Unreal\\Asteroids\\Source\\Asteroids\\Asteroids.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Hunter\\OneDrive\\OneDrive\\Coding\\Unreal\\Asteroids\\.vscode\\compileCommands_Default\\Asteroids.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
