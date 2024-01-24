@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Git Source/Asteroids/Content/Developers/Hunter/Materials/DebugMaterial.uasset",
+				"E:/Git Source/Asteroids/Content/Developers/Hunter/Levels/GameMap.umap",
+				"E:/Git Source/Asteroids/Content/Developers/Hunter/Blueprints/BP_Ship.uasset",
+				"E:/Git Source/Asteroids/Content/Developers/Hunter/Particles/NS_ShipThrust.uasset",
+				"C:/Users/hunte/OneDrive/Desktop/Asteroids-master/Content/Developers/Hunter/Blueprints/BP_Laser.uasset",
+				"C:/Users/hunte/OneDrive/Desktop/Asteroids-master/Content/Developers/Hunter/Blueprints/BP_Ship.uasset",
+				"C:/Users/hunte/OneDrive/Desktop/Asteroids-master/Content/Developers/Hunter/Particles/NS_ShipThrust.uasset",
 				"C:/Users/Hunter/OneDrive/OneDrive/Coding/Unreal/Asteroids/Content/Developers/Hunter/Levels/GameMap.umap",
 				"C:/Users/Hunter/OneDrive/OneDrive/Coding/Unreal/Asteroids/Content/Developers/Hunter/Sprites/T_Ship.uasset",
 				"C:/Users/Hunter/OneDrive/OneDrive/Coding/Unreal/Asteroids/Content/Developers/Hunter/Sprites/T_SpaceBackground.uasset",
