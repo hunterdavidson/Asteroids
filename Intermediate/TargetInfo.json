@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Asteroids",
+			"Path": "..\\Source\\Asteroids.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AsteroidsEditor",
+			"Path": "..\\Source\\AsteroidsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
