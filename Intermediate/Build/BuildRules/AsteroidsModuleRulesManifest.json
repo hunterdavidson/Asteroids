@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"E:\\Git Source\\Asteroids\\Source\\Asteroids\\Asteroids.Build.cs",
-		"E:\\Git Source\\Asteroids\\Source\\Asteroids.Target.cs",
-		"E:\\Git Source\\Asteroids\\Source\\AsteroidsEditor.Target.cs"
+		"E:\\Git Source\\hunterdavidson\\Asteroids\\Source\\Asteroids\\Asteroids.Build.cs",
+		"E:\\Git Source\\hunterdavidson\\Asteroids\\Source\\Asteroids.Target.cs",
+		"E:\\Git Source\\hunterdavidson\\Asteroids\\Source\\AsteroidsEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }

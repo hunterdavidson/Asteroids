@@ -11,19 +11,10 @@
     <None Include="..\..\Source\AsteroidsEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
-    <None Include="..\..\.editorconfig" />
-    <None Include="..\..\.gitattributes" />
-    <None Include="..\..\.gitignore" />
-    <None Include="..\..\.ignore" />
-    <None Include="..\..\.vsconfig" />
-    <None Include="..\..\shadertoolsconfig.json" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultEditorSettings.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultEngine.ini">
@@ -45,6 +36,12 @@
       <Filter>Source\Asteroids</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Asteroids\Asteroids.h">
+      <Filter>Source\Asteroids</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asteroids\MyClass.cpp">
+      <Filter>Source\Asteroids</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asteroids\MyClass.h">
       <Filter>Source\Asteroids</Filter>
     </ClInclude>
   </ItemGroup>
