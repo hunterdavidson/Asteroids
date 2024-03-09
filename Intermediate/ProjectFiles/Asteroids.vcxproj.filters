@@ -16,6 +16,7 @@
     <None Include="..\..\.gitignore" />
     <None Include="..\..\.ignore" />
     <None Include="..\..\.vsconfig" />
+    <None Include="..\..\Asteroids.png" />
     <None Include="..\..\shadertoolsconfig.json" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
@@ -45,6 +46,12 @@
       <Filter>Source\Asteroids</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Asteroids\Asteroids.h">
+      <Filter>Source\Asteroids</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asteroids\MyPawn.cpp">
+      <Filter>Source\Asteroids</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asteroids\MyPawn.h">
       <Filter>Source\Asteroids</Filter>
     </ClInclude>
   </ItemGroup>

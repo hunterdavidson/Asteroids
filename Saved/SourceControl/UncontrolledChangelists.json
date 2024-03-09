@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Hunter/source/repos/hunterdavidson/Asteroids/Content/Developers/Hunter/Levels/L_AsteroidsClassic.umap",
+				"C:/Users/Hunter/source/repos/hunterdavidson/Asteroids/Content/Developers/Hunter/Blueprints/Asteroids/Spawners/BP_ClassicAsteroidWaveSpawner.uasset",
+				"C:/Users/Hunter/source/repos/hunterdavidson/Asteroids/Content/Developers/Hunter/Blueprints/Utility/CollisionStructures/SpawningRoadMap.uasset",
 				"E:/Asteroids/Content/Developers/Hunter/Blueprints/Asteroids/ground_0010_normal_directx_4k.uasset",
 				"E:/Asteroids/Content/Developers/Hunter/Blueprints/Asteroids/Asteroid_Material.uasset",
 				"E:/Git Source/hunterdavidson/Asteroids/Content/Developers/Hunter/Blueprints/Planets/BP_Saturn.uasset",
