@@ -46,10 +46,6 @@
 		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
-		},
-		{
-			"Name": "OnlineServicesOSSAdapter",
-			"Enabled": true
 		}
 	]
 }
