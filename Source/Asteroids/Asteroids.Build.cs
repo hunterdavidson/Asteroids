@@ -8,11 +8,24 @@ public class Asteroids : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
-        PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
+        PublicDependencyModuleNames.AddRange(new string[] { 
 
-        PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "OnlineSubsystem", "OnlineSubsystemUtils" });
+            "Core", 
+            "CoreUObject", 
+            "Engine", 
+            "InputCore", 
+            "OnlineSubsystem", 
+            "OnlineSubsystemUtils", 
+            "EditorScriptingUtilities",
+            "UMG",
+            "Slate",
+            "SlateCore",
 
-        PrivateDependencyModuleNames.AddRange(new string[] { });
+        });
+
+        PrivateDependencyModuleNames.AddRange(new string[] {
+
+        });
 
         DynamicallyLoadedModuleNames.Add("OnlineSubsystemSteam");
 
