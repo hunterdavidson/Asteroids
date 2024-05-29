@@ -16,8 +16,6 @@ public class Asteroids : ModuleRules
             "InputCore", 
             "OnlineSubsystem", 
             "OnlineSubsystemUtils", 
-            "EditorScriptingUtilities",
-            "UMG",
             "Slate",
             "SlateCore",
 
