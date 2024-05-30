@@ -18,6 +18,7 @@ public class Asteroids : ModuleRules
             "OnlineSubsystemUtils", 
             "Slate",
             "SlateCore",
+            "Blutility"
 
         });
 
