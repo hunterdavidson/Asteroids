@@ -4,27 +4,30 @@ using UnrealBuildTool;
 
 public class Asteroids : ModuleRules
 {
-	public Asteroids(ReadOnlyTargetRules Target) : base(Target)
-	{
-		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
+    public Asteroids(ReadOnlyTargetRules Target) : base(Target)
+    {
+        PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
-        PublicDependencyModuleNames.AddRange(new string[] { 
-
-            "Core", 
-            "CoreUObject", 
-            "Engine", 
-            "InputCore", 
-            "OnlineSubsystem", 
-            "OnlineSubsystemUtils", 
+        PublicDependencyModuleNames.AddRange(new string[] {
+            "Core",
+            "CoreUObject",
+            "Engine",
+            "InputCore",
+            "OnlineSubsystem",
+            "OnlineSubsystemUtils",
             "Slate",
-            "SlateCore",
-            "Blutility"
-
+            "SlateCore"
         });
 
-        PrivateDependencyModuleNames.AddRange(new string[] {
+        PrivateDependencyModuleNames.AddRange(new string[] { });
 
-        });
+        if (Target.bBuildEditor)
+        {
+            PrivateDependencyModuleNames.AddRange(new string[] {
+                "Blutility",
+                "UnrealEd"
+            });
+        }
 
         DynamicallyLoadedModuleNames.Add("OnlineSubsystemSteam");
 
