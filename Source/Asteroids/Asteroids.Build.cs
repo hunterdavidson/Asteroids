@@ -16,7 +16,8 @@ public class Asteroids : ModuleRules
             "OnlineSubsystem",
             "OnlineSubsystemUtils",
             "Slate",
-            "SlateCore"
+            "SlateCore",
+            "UMG"
         });
 
         PrivateDependencyModuleNames.AddRange(new string[] { });
